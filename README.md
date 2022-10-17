@@ -1,6 +1,6 @@
 kankshat.github.io
 
-Thanks for checking out my site! Credits below:
+Thanks for checking out my site!
 
 
 A simple, minimalist template that actually began life as an unused redesign of my
