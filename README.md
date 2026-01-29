@@ -3,8 +3,7 @@ kankshat.github.io
 Thanks for checking out my site!
 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
+A simple, minimalist template that includes a (configurable) parallax background effect, Poptrox-powered
 lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
 
 
